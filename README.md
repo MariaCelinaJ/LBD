@@ -1,14 +1,14 @@
 # LBD
 ### Trabalho de Laboratório de Banco de Dados da FACOM - UFMS em 2020/1
 
-#### Introdução
+#### Introduçã
 
 O objetivo principal do trabalho é modelar um banco de dados relacional para um dado problema e realizar um conjunto de consultas SQL nesse banco.
 
 1. Banco de Dados POSTGRESQL (9.2+);
 2. Diagrama no brModelo;
 
-Os alunos deverão modelar um banco de dados a partir do conjunto de requisitos descritos na seção 1. Além disso, cada grupo deverá definir 2 requisitos adicionais ao problema, descrevê-los e modelá-los. Além da modelagem, os alunos criarão consultas SQL a serem executadas no banco de dados criado.
+Os alunos deverão modelar um banco de dados a partir do conjunto de requisitos descritos na seção 1. Além disso, deverão definir 2 requisitos adicionais ao problema, descrevê-los e modelá-los. Além da modelagem, os alunos criarão consultas SQL a serem executadas no banco de dados criado.
 
 Os requisitos adicionais definidos pelos alunos devem gerar uma nova entidade, uma nova relação, o surgimento de uma agregação ou uma hierarquia. Não serão considerados requisitos adicionais que sejam modelados apenas acrescentando um novo atributo às entidades já descritas.
 
