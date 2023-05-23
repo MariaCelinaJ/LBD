@@ -1,7 +1,7 @@
 # LBD
-Trabalho de Laboratório de Banco de Dados da FACOM - UFMS em 2020/1
+### Trabalho de Laboratório de Banco de Dados da FACOM - UFMS em 2020/1
 
-Introdução
+#### Introdução
 
 O objetivo principal do trabalho é modelar um banco de dados relacional para um dado problema e realizar um conjunto de consultas SQL nesse banco.
 
@@ -16,15 +16,15 @@ Quando os requisitos descritos não forem suficientes para fazer a modelagem, os
 
 O trabalho é dividido em etapas. Em cada etapa uma tarefa (ou um conjunto de tarefas) deve ser realizado, conforme descrito a seguir:
 
-Tarefa 1: Modelar o banco de dados usando o Modelo Entidade Relacionamento. Para esta atividade, o DER deve ser usado. É importante que os requisitos adicionais definidos pelos alunos sejam também entregues e modelados. Para cada um dos itens descritos na seção 3, os alunos devem informar como estes foram modelados usando o Modelo Entidade-Relacionamento. Um dicionário de dados deve ser desenvolvido para descrever cada tabela e cada atributo da modelagem.
+**Tarefa 1:** Modelar o banco de dados usando o Modelo Entidade Relacionamento. Para esta atividade, o DER deve ser usado. É importante que os requisitos adicionais definidos pelos alunos sejam também entregues e modelados. Para cada um dos itens descritos na seção 3, os alunos devem informar como estes foram modelados usando o Modelo Entidade-Relacionamento. Um dicionário de dados deve ser desenvolvido para descrever cada tabela e cada atributo da modelagem.
 
-Tarefa 2: Converter o modelo entidade relacionamento para o modelo relacional, comentando quais escolhas foram feitas para a conversão de cada uma das entidades, relacionamentos, hierarquias e agregações. O comando SQL de cada tabela deve ser fornecido. É importante que o DER corrigido seja também entregue.
+**Tarefa 2:** Converter o modelo entidade relacionamento para o modelo relacional, comentando quais escolhas foram feitas para a conversão de cada uma das entidades, relacionamentos, hierarquias e agregações. O comando SQL de cada tabela deve ser fornecido. É importante que o DER corrigido seja também entregue.
 
-Tarefa 3: Criar 10 consultas interessantes usando o banco de dados. As consultas devem ser pensadas com o intuito de auxiliar um gerente na tomada de decisão. A nota será baseada na complexidade e utilidade da consulta para o problema. A prioridade deve ser dada a consultas que sumarizem os dados contidos no banco por meio de operadores de agregação. É importante que o modelo relacional seja também entregue.
+**Tarefa 3:** Criar 10 consultas interessantes usando o banco de dados. As consultas devem ser pensadas com o intuito de auxiliar um gerente na tomada de decisão. A nota será baseada na complexidade e utilidade da consulta para o problema. A prioridade deve ser dada a consultas que sumarizem os dados contidos no banco por meio de operadores de agregação. É importante que o modelo relacional seja também entregue.
 
-Requisitos do Sistema
+#### Requisitos do Sistema
 
-Sistema de Imobiliária
+#### Sistema de Imobiliária
 
 A) Para a imobiliária é muito importante manter um cadastro dos imóveis que estão à venda e dos imóveis que estão disponíveis para locação.
 
